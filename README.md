@@ -47,6 +47,11 @@ The DMoney project is a demonstration platform designed to simulate financial tr
 - Open with any code editor / Command Shell
 - Give the following command ```npm i``` and ```node .\report.js```
 
+## API Documentation
+  ```console
+      https://documenter.getpostman.com/view/28551494/2sAYBXBqaE
+  ```
+
 ## Technology Used
 - Postman: If you haven't already, [download and install Postman.](https://www.postman.com/downloads/)
 - Newman
