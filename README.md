@@ -2,8 +2,8 @@
 
 ## **Content**
 - [Introduction](#introduction)
-- [Tese case scenario](#test-case-scenario)
-- 
+- [Test Case Scenario](#test-case-scenario)
+  
   
 ## Introduction
 
