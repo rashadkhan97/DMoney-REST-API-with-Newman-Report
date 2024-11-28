@@ -5,6 +5,7 @@
 - [Test Cases Scenario](#test-cases-scenario)
 - [API Endpoint Details](#api-endpoint-details)
 - [How to run the project](#How-to-run-the-project)
+- [Technology Used](#Technology-Used)
   
   
 ## Introduction
@@ -40,11 +41,12 @@ The DMoney project is a demonstration platform designed to simulate financial tr
 ## How to run the project
 
 - clone this project
-   
-    <p align="center"> ```console
+   ```console
       https://github.com/rashadkhan97/DMoney-REST-API-with-Newman-Report.git
-    ```   </p>
+    ``` 
 - Open with any code editor / Command Shell
 - Give the following command ```npm i``` and ```node .\report.js```
 
-
+## Technology Used
+- Postman: If you haven't already, [download and install Postman.](https://www.postman.com/downloads/)
+- Newman
