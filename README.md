@@ -3,6 +3,7 @@
 ## **Content**
 - [Introduction](#introduction)
 - [Test Cases Scenario](#test-cases-scenario)
+- [API Endpoint Details](#api-endpoint-details)
   
   
 ## Introduction
@@ -27,3 +28,11 @@ The DMoney project is a demonstration platform designed to simulate financial tr
    - **Hint**: fromAc: `Customer`, toAc: `Merchant`  
 9. The second Customer checks both balance and transaction statement. 
 10. The Merchant checks his balance.
+
+## API Endpoint Details
+
+1. ## API Documentation
+
+- [**User API Endpoints**](https://dmoney.roadtocareer.net/api-docs/user)
+- [**Transaction API Endpoints**](https://dmoney.roadtocareer.net/api-docs/transaction)
+- **Partner Key**: X-AUTH-SECRET-KEY: `ROADTOSDET`
