@@ -41,7 +41,9 @@ The DMoney project is a demonstration platform designed to simulate financial tr
 
 - clone this project
     ```console
+    <p align="center">
       https://github.com/rashadkhan97/DMoney-REST-API-with-Newman-Report.git
+    </p>
     ```
 - Open with any code editor / Command Shell
 - Give the following command ```npm i``` and ```node .\report.js```
