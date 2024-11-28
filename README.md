@@ -53,7 +53,7 @@ The DMoney project is a demonstration platform designed to simulate financial tr
 - Open with any code editor / Command Shell
 - Give the following command ```npm i``` and ```node .\report.js```
 
-## Postman API Documentation
+## Postman User Documentation
   
   - **https://documenter.getpostman.com/view/28551494/2sAYBXBqaE**
   
@@ -63,8 +63,7 @@ The DMoney project is a demonstration platform designed to simulate financial tr
 - Newman
 
 ## Test Case Writing
-For a better understanding click the link below - 
-- 
+For a better understanding click the link below - [**Test Case Writing Sheet Link**](https://docs.google.com/spreadsheets/d/1cZdk7-ELz-Vps4aKg5e9OVTR-lj1iIwB/edit?usp=sharing&ouid=113748567292900710037&rtpof=true&sd=true)
 
 ## Bug Reporting
 For more clear view click on the link - [**Bug Report Sheet Link**](https://docs.google.com/spreadsheets/d/1yvT0-m4jE2ueoB4oioztYkPadFLr6Yva/edit?usp=sharing&ouid=113748567292900710037&rtpof=true&sd=true)
