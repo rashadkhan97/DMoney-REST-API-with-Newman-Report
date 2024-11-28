@@ -5,6 +5,7 @@
 - [Test Cases Scenario](#test-cases-scenario)
 - [API Endpoint Details](#api-endpoint-details)
 - [How to run the project](#How-to-run-the-project)
+- [API Documentation](#api-documentation)
 - [Technology Used](#Technology-Used)
   
   
@@ -48,9 +49,9 @@ The DMoney project is a demonstration platform designed to simulate financial tr
 - Give the following command ```npm i``` and ```node .\report.js```
 
 ## API Documentation
-  ```console
-      https://documenter.getpostman.com/view/28551494/2sAYBXBqaE
-  ```
+  
+  - **https://documenter.getpostman.com/view/28551494/2sAYBXBqaE**
+  
 
 ## Technology Used
 - Postman: If you haven't already, [download and install Postman.](https://www.postman.com/downloads/)
