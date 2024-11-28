@@ -56,3 +56,11 @@ The DMoney project is a demonstration platform designed to simulate financial tr
 ## Technology Used
 - Postman: If you haven't already, [download and install Postman.](https://www.postman.com/downloads/)
 - Newman
+
+## Test Case Writing
+For a better understanding click the link below - 
+- 
+
+## Bug Reporting
+For more clear view click on the link below - 
+- https://docs.google.com/spreadsheets/d/1yvT0-m4jE2ueoB4oioztYkPadFLr6Yva/edit?usp=sharing&ouid=113748567292900710037&rtpof=true&sd=true
