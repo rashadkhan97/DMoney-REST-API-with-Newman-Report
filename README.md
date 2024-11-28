@@ -4,6 +4,7 @@
 - [Introduction](#introduction)
 - [Test Cases Scenario](#test-cases-scenario)
 - [API Endpoint Details](#api-endpoint-details)
+- [How to run the project](#How-to-run-the-project)
   
   
 ## Introduction
@@ -31,11 +32,14 @@ The DMoney project is a demonstration platform designed to simulate financial tr
 
 ## API Endpoint Details
 
-- **User API Endpoints**: _(https://dmoney.roadtocareer.net/api-docs/user)_
+- **User API Endpoints**: ```console_(https://dmoney.roadtocareer.net/api-docs/user)_```
 - **Transaction API Endpoints**: _(https://dmoney.roadtocareer.net/api-docs/transaction)_
 - **Partner Key**: X-AUTH-SECRET-KEY: `ROADTOSDET`
 
-## How to run project
+## How to run the project
+
 - clone this project
 - Open with any code editor / Command Shell
 - Give the following command ```npm i``` and ```node .\report.js```
+
+
