@@ -63,7 +63,7 @@ The DMoney project is a demonstration platform designed to simulate financial tr
 - Newman
 
 ## Test Case Writing
-For view purposes, one of the feature test case writing sheet screenshots is given. <br>
+For view purposes, one of a feature test case writing sheet screenshot is given. <br>
 To see the full test cases and better understanding click the link -  [```**Test Case Writing Sheet Link**```](https://docs.google.com/spreadsheets/d/1cZdk7-ELz-Vps4aKg5e9OVTR-lj1iIwB/edit?usp=sharing&ouid=113748567292900710037&rtpof=true&sd=true)
 
 
