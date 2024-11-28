@@ -71,4 +71,6 @@ For more clear view click on the link - [**Bug Report Sheet Link**](https://docs
 </p>
 
 
+## Newman Report
+### Report Summary
 
