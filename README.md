@@ -31,8 +31,11 @@ The DMoney project is a demonstration platform designed to simulate financial tr
 
 ## API Endpoint Details
 
-1. ## API Documentation
-
 - **User API Endpoints**: _(https://dmoney.roadtocareer.net/api-docs/user)_
 - **Transaction API Endpoints**: _(https://dmoney.roadtocareer.net/api-docs/transaction)_
 - **Partner Key**: X-AUTH-SECRET-KEY: `ROADTOSDET`
+
+## How to run project
+- clone this project
+- Open with any code editor / Command Shell
+- Give the following command ```npm i``` and ```node .\report.js```
