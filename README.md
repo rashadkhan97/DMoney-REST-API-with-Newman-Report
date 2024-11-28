@@ -10,11 +10,17 @@
 The DMoney project is a demonstration platform designed to simulate financial transactions where users can transfer virtual or demo money.
 
 ## Test cases scenario
-1. Admin creates an Agent, 2 random Customers, and a Merchant.
-  - Admin email: admin@roadtocareer.net / Pass: 1234
-2. Deposit some money from the SYSTEM account to the Agent.
-  - System account: SYSTEM (range 10 TK to 10,000 TK)
+
+1. Admin creates an Agent, 2 random Customers, and a Merchant.  
+   - **Admin email**: `admin@roadtocareer.net`  
+   - **Password**: `1234`
+
+2. Deposit some money from the SYSTEM account to the Agent.  
+   - **System account**: `SYSTEM`  
+   - **Range**: 10 TK to 10,000 TK
+
 3. Agent deposits money to one of the Customers.
+   - **System account**: `SYSTEM` 
   - Hint: fromAc: Agent, toAc: Customer
 4. Check the Agent's balance.
 5. Then, send money from one Customer to another Customer.
