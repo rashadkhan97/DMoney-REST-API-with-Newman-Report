@@ -10,6 +10,8 @@
 - [Test Case Writing](#test-case-writing)
 - [Bug Reporting](#bug-reporting)
 - [Newman Report](#newman-report)
+    - [Report Summary](#report-summary)
+    - [Total Requests](#total-requests)
   
   
 ## Introduction
