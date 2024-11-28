@@ -9,6 +9,7 @@
 - [Technology Used](#Technology-Used)
 - [Test Case Writing](#test-case-writing)
 - [Bug Reporting](#bug-reporting)
+- [Newman Report](#newman-report)
   
   
 ## Introduction
