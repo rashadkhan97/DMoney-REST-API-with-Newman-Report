@@ -34,12 +34,15 @@ The DMoney project is a demonstration platform designed to simulate financial tr
 
 - **User API Endpoints**: [_https://dmoney.roadtocareer.net/api-docs/user_](https://dmoney.roadtocareer.net/api-docs/user)
 
-- **Transaction API Endpoints**: _(https://dmoney.roadtocareer.net/api-docs/transaction)_
+- **Transaction API Endpoints**: [_https://dmoney.roadtocareer.net/api-docs/transaction_](https://dmoney.roadtocareer.net/api-docs/transaction)
 - **Partner Key**: X-AUTH-SECRET-KEY: `ROADTOSDET`
 
 ## How to run the project
 
 - clone this project
+    ```console
+      https://github.com/rashadkhan97/DMoney-REST-API-with-Newman-Report.git
+    ```
 - Open with any code editor / Command Shell
 - Give the following command ```npm i``` and ```node .\report.js```
 
