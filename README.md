@@ -32,7 +32,7 @@ The DMoney project is a demonstration platform designed to simulate financial tr
 
 ## API Endpoint Details
 
-- **User API Endpoints**: [https://dmoney.roadtocareer.net/api-docs/user](https://dmoney.roadtocareer.net/api-docs/user)
+- **User API Endpoints**: [_https://dmoney.roadtocareer.net/api-docs/user_](https://dmoney.roadtocareer.net/api-docs/user)
 
 - **Transaction API Endpoints**: _(https://dmoney.roadtocareer.net/api-docs/transaction)_
 - **Partner Key**: X-AUTH-SECRET-KEY: `ROADTOSDET`
