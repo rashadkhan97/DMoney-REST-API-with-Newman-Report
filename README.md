@@ -73,6 +73,9 @@ For more clear view click on the link - [**Bug Report Sheet Link**](https://docs
 
 ## Newman Report
 ### Report Summary
-![1](https://github.com/user-attachments/assets/571e71e0-38c4-402a-8fa4-c90212e9bdc7)
+![image](https://github.com/user-attachments/assets/0509a5bb-f58e-4532-8256-520ac70a20bf)
+![image](https://github.com/user-attachments/assets/9c7b876b-1bef-44cb-b21b-c92dcb985eef)
+
+
 
 
