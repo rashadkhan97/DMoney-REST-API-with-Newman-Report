@@ -7,6 +7,8 @@
 - [How to run the project](#How-to-run-the-project)
 - [Postman API Documentation](#postman-api-documentation)
 - [Technology Used](#Technology-Used)
+- [Test Case Writing](#test-case-writing)
+- [Bug Reporting](#bug-reporting)
   
   
 ## Introduction
@@ -62,10 +64,11 @@ For a better understanding click the link below -
 - 
 
 ## Bug Reporting
-For more clear view click on the link below - [**Bug Report Sheet Link**](https://docs.google.com/spreadsheets/d/1yvT0-m4jE2ueoB4oioztYkPadFLr6Yva/edit?usp=sharing&ouid=113748567292900710037&rtpof=true&sd=true)
+For more clear view click on the link - [**Bug Report Sheet Link**](https://docs.google.com/spreadsheets/d/1yvT0-m4jE2ueoB4oioztYkPadFLr6Yva/edit?usp=sharing&ouid=113748567292900710037&rtpof=true&sd=true)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6022fe15-79b1-4922-968b-6c87294974a0" />
 </p>
+
 
 
