@@ -1,4 +1,4 @@
 node_modules
 Reports
-env.json
+.env
 package-lock.json

@@ -2,7 +2,7 @@ const newman = require('newman');
 require('dotenv').config();
  
 newman.run({
-    collection:`https://api.postman.com/collections/28551494-5bab38c6-d107-4c85-8d38-ca7a14dc83f5?access_key=${process.env.acesskey}`,
+    collection:`https://api.postman.com/collections/28551494-5bab38c6-d107-4c85-8d38-ca7a14dc83f5?access_key=${process.env.accessKey}`,
     //collection:require('./collection/collection.json'),
     reporters: 'htmlextra',
     iterationCount: 1,
